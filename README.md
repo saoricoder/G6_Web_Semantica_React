@@ -13,9 +13,8 @@ Aplicación React profesional que consume una API REST Laravel con soporte para 
 ## Grupo #: 6
 ## Integrantes:
 
--Victor Villamarín
--Betty Rodríguez
-
+- [Victor Villamarín](#integrantes)
+- [Betty Rodríguez](#integrantes)
 
 ## 📋 Tabla de Contenidos
 
