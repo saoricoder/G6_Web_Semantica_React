@@ -1,11 +1,7 @@
-# 🌐 Web Semántica con React y Laravel
+# UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE  
+## UNIDAD DE EDUCACIÓN A DISTANCIA
 
-Aplicación React profesional que consume una API REST Laravel con soporte para JSON-LD y Web Semántica. Diseño responsivo, estilos modularizados con BEM, y componentes reutilizables.
-
-**Versión:** 1.0.0  
-**Estado:** ✅ Listo para Producción  
-**Última Actualización:** 11 de diciembre de 2025
-
+![ESPE](https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_ESPE.png)
 
 ## Proyecto:
 -Resolución de Ejercicios – Aplicación de Web Semántica (JSON-LD) en una API REST con Laravel
@@ -15,6 +11,14 @@ Aplicación React profesional que consume una API REST Laravel con soporte para 
 
 - [Victor Villamarín](#integrantes)
 - [Betty Rodríguez](#integrantes)
+
+# 🌐 Web Semántica con React y Laravel
+
+Aplicación React profesional que consume una API REST Laravel con soporte para JSON-LD y Web Semántica. Diseño responsivo, estilos modularizados con BEM, y componentes reutilizables.
+
+**Versión:** 1.0.0  
+**Estado:** ✅ Listo para Producción  
+**Última Actualización:** 11 de diciembre de 2025
 
 ## 📋 Tabla de Contenidos
 
