@@ -6,7 +6,13 @@ Aplicación React profesional que consume una API REST Laravel con soporte para 
 **Estado:** ✅ Listo para Producción  
 **Última Actualización:** 11 de diciembre de 2025
 
----
+
+**Proyecto:** Resolución de Ejercicios – Aplicación de Web Semántica (JSON-LD) en una API REST con Laravel
+**Grupo #: 6**
+**Integrantes:**
+-Victor Villamarín
+-Betty Rodríguez
+
 
 ## 📋 Tabla de Contenidos
 
