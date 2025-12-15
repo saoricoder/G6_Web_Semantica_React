@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.espe.edu.ec" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Logo_ESPE.png" width="400" alt="Logo ESPE">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Logo_ESPE.png" width="200" alt="Logo ESPE">
   </a>
 </p>
 
