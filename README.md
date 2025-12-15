@@ -1,7 +1,7 @@
-# UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE  
+<div align="center">
+## UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE  
 ## UNIDAD DE EDUCACIÓN A DISTANCIA
-
-![ESPE](https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_ESPEOk.png)
+</div>
 
 ## Proyecto:
 -Resolución de Ejercicios – Aplicación de Web Semántica (JSON-LD) en una API REST con Laravel
