@@ -1,0 +1,133 @@
+/**
+ * Estilos para el componente ApiTester
+ * Utiliza BEM para nomenclatura
+ */
+
+.api-tester {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  padding: 20px;
+}
+
+.api-tester__container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.api-tester__section {
+  background: white;
+  border-radius: 8px;
+  padding: 25px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.api-tester__section--selector {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  margin-bottom: 30px;
+}
+
+.api-tester__section-title {
+  margin: 0 0 20px 0;
+  font-size: 22px;
+  font-weight: 700;
+  color: inherit;
+}
+
+.api-tester__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.api-tester__button {
+  flex: 1;
+  min-width: 150px;
+  padding: 12px 20px;
+  border: 2px solid white;
+  background: transparent;
+  color: white;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.api-tester__button:hover:not(:disabled) {
+  background: white;
+  color: #667eea;
+  transform: translateY(-2px);
+}
+
+.api-tester__button--active {
+  background: white;
+  color: #667eea;
+  border-color: white;
+}
+
+.api-tester__button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.api-tester__info {
+  background: #f8f9fa;
+  border-left: 4px solid #667eea;
+}
+
+.api-tester__info-title {
+  margin: 0 0 15px 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: #333;
+}
+
+.api-tester__info-content {
+  color: #666;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.api-tester__info-content p {
+  margin: 0 0 10px 0;
+}
+
+.api-tester__info-content p:last-child {
+  margin-bottom: 0;
+}
+
+.api-tester__info-content code {
+  background: #e9ecef;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-family: 'Courier New', monospace;
+  color: #c92a2a;
+  font-size: 13px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .api-tester {
+    padding: 10px;
+  }
+
+  .api-tester__section {
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+
+  .api-tester__buttons {
+    flex-direction: column;
+  }
+
+  .api-tester__button {
+    min-width: unset;
+    width: 100%;
+  }
+
+  .api-tester__section-title {
+    font-size: 18px;
+  }
+}
