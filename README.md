@@ -1,6 +1,6 @@
-<div align="center">
+## <div align="center">
 ## UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE  
-## UNIDAD DE EDUCACIÓN A DISTANCIA
+
 </div>
 
 ## Proyecto:
