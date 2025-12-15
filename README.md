@@ -5,8 +5,9 @@
 </div>
 
 ## Proyecto:
-- [Resolución de Ejercicios] 
-– [Aplicación de Web Semántica (JSON-LD) en una API REST con Laravel]
+- Resolución de Ejercicios
+   
+– Aplicación de Web Semántica (JSON-LD) en una API REST con Laravel
 
 ## Grupo #: 6
 ## Integrantes:
