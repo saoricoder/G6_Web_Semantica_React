@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.espe.edu.ec" target="_blank">
+  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ydG0H87UrYb7qDS_tv7o71wJof-cmynDNgqDzjeR9BrSX_sl2bpLgyxb2kfDUi5fUJM&usqp=CAU" target="_blank">
     <img src="{{ asset('images/logo-espe.png') }}" width="400" alt="Logo ESPE">
   </a>
 </p>
