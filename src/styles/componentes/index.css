@@ -1,0 +1,18 @@
+/**
+ * Estilos Globales de Componentes
+ * Este archivo importa todos los estilos de componentes
+ */
+
+/* Estilos globales y base */
+@import './App.css';
+
+/* Componentes principales */
+@import './ApiTester.css';
+
+/* Componentes de visualización de datos */
+@import './DataViewer.css';
+@import './JsonLdViewer.css';
+
+/* Componentes de estado */
+@import './LoadingSpinner.css';
+@import './ErrorAlert.css';
