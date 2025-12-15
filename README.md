@@ -1,6 +1,6 @@
 <div align="center">
     
-## UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE  
+#### UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE  
 
 </div>
 
@@ -10,7 +10,7 @@
 – Aplicación de Web Semántica (JSON-LD) en una API REST con Laravel.
 
 
-## Grupo #: 6
+## Arquitectura de software - Grupo 5  
 ## Integrantes:
 
 - [Victor Villamarín](#integrantes)
