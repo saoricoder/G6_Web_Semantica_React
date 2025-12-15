@@ -4,6 +4,12 @@
 
 </div>
 
+<p align="center">
+  <a href="https://www.espe.edu.ec" target="_blank">
+    <img src="{{ asset('images/logo-espe.png') }}" width="400" alt="Logo ESPE">
+  </a>
+</p>
+
 ## Proyecto:
 - Resolución de Ejercicios.
    
