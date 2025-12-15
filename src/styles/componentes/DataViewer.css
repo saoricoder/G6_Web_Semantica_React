@@ -1,0 +1,56 @@
+/**
+ * Estilos para el componente DataViewer
+ * Utiliza BEM (Block Element Modifier) para nomenclatura
+ */
+
+.data-viewer {
+  margin: 20px 0;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.data-viewer__title {
+  margin: 0;
+  padding: 15px;
+  background: #f5f5f5;
+  border-bottom: 1px solid #ddd;
+  color: #333;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.data-viewer__content {
+  margin: 0;
+  padding: 15px;
+  background: #fafafa;
+  color: #333;
+  font-size: 13px;
+  line-height: 1.5;
+  overflow-x: auto;
+  max-height: 400px;
+  overflow-y: auto;
+  font-family: 'Courier New', monospace;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.data-viewer__content::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.data-viewer__content::-webkit-scrollbar-track {
+  background: #f0f0f0;
+}
+
+.data-viewer__content::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 4px;
+}
+
+.data-viewer__content::-webkit-scrollbar-thumb:hover {
+  background: #999;
+}
